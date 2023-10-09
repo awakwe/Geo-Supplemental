@@ -10,6 +10,53 @@ logo:     https://your-logo-url.com/logo.jpg
 comment:  This document is a simple LiaScript course example.
 
 -->
+## Quizlet Math Terms
+
+1. **Definition of sides**  
+   - Typically refers to the lengths of the boundaries in geometrical shapes.
+
+2. **Distributive Property**  
+   - \( a(b + c) = ab + ac \)
+
+3. **Order of Operations**  
+   - PEMDAS (Parentheses, Exponents, Multiplication, Division, Addition, Subtraction)
+
+4. **Adjacent angles**  
+   - Angles that share a common vertex and side but don't overlap.
+
+5. **Vertical angles**  
+   - Pair of opposite angles formed by intersecting lines.
+
+6. **Solving single variable equations**  
+   - \( ax = b \) becomes \( x = \frac{b}{a} \)
+
+7. **Supplementary angles**  
+   - Two angles that add up to 180 degrees.
+
+8. **Corresponding angles**  
+   - Angles in matching corners when two lines are cut by a transversal.
+
+9. **Alternate exterior angles**  
+   - Angles on opposite sides of a transversal but outside the parallel lines, and are equal.
+
+10. **Exterior angles**  
+    - Angles formed outside parallel lines when intersected by a transversal.
+
+11. **Transversal on angles**  
+    - A line that intersects two or more lines at distinct points.
+
+12. **Congruent angles**  
+    - Angles that have the same measure.
+
+13. **Complete the circle**  
+    - Often refers to creating a 360-degree angle or completing a task.
+
+14. **Mental math techniques**  
+    - Strategies like rounding, breaking numbers down, or using multiplication tables for quick calculations.
+
+## Resources
+
+- [Quizlet Geometry Supplemental Flash Cards](https://quizlet.com/836622705/geometry-supplemental-flash-cards/?i=2dpmw2&x=1qqt)
 
 
 ## Quizzes
