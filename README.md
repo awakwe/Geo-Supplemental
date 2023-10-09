@@ -77,6 +77,6 @@ During the virtual lecture, we will use active learning strategies to engage wit
 
 By the end of this module, you should have a strong foundation in Microsoft 365 and be able to apply your knowledge to solve real-world problems.
 
-[preview-lia](https://raw.githubusercontent.com/awakwe/Blank/main/README.md)
+[preview-lia](https://raw.githubusercontent.com/awakwe/Geo-Supplemental/main/README.md)
 
-[Preview-Lia](https://liascript.github.io/course/?https://raw.githubusercontent.com/awakwe/Blank/main/README.md)
+[Preview-Lia](https://liascript.github.io/course/?https://raw.githubusercontent.com/awakwe/Geo-Supplemental/main/README.md)
